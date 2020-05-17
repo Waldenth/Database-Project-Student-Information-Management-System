@@ -1,0 +1,2 @@
+# -Database-Project-Student-Information-Management-System
+一个简单的数据库应用程序项目设计,分为python开发的windows窗口程序和使用java和easyui模板制作的web应用
